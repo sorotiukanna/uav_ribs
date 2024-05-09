@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "homepage": "https://sorotiukanna.github.io/uav_ribs/",
   "scripts": {
-    "predeploy" : "yarn build",
+    "predeploy" : "npm run  build",
     "deploy" : "gh-pages -d dist",
     "dev": "vite",
     "build": "vue-tsc --noEmit && vite build",
