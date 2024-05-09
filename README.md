@@ -1,4 +1,4 @@
-![image](https://github.com/sorotiukanna/uav_ribs/assets/37778232/37077880-71f2-48a3-b1e8-d968ae84aa5a)This is a widget (page) for visualising the flight of a conditional UAV.   
+This is a widget (page) for visualising the flight of a conditional UAV.   
 When you click the 'Start' button, the UAV starts to move. 
 When you click on the 'Stop' button, the UAV returns to the starting point. 
 The functionality of dragging the map with the mouse has been implemented as well.
